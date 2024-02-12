@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "abbreviation": "AL",
+    "name": "Alabama",
+    "taxRate": 4.0,
+    "admissionDate": "December 14, 1819"
+  },
+  {
+    "id": 2,
+    "abbreviation": "AK",
+    "name": "Alaska",
+    "taxRate": 0,
+    "admissionDate": "January 3, 1959"
+  },
+  {
+    "id": 3,
+    "abbreviation": "AZ",
+    "name": "Arizona",
+    "taxRate": 5.6,
+    "admissionDate": "February 14, 1912"
+  },
+  {
+    "id": 4,
+    "abbreviation": "AR",
+    "name": "Arkansas",
+    "taxRate": 6.5,
+    "admissionDate": "June 15, 1836"
+  },
+  {
+    "id": 5,
+    "abbreviation": "CA",
+    "name": "California",
+    "taxRate": 7.25,
+    "admissionDate": "September 9, 1850"
+  },
+  {
+    "id": 6,
+    "abbreviation": "CO",
+    "name": "Colorado",
+    "taxRate": 2.9,
+    "admissionDate": "August 1, 1876"
+  },
+  {
+    "id": 7,
+    "abbreviation": "CT",
+    "name": "Connecticut",
+    "taxRate": 6.35,
+    "admissionDate": "January 9, 1788"
+  },
+  {
+    "id": 8,
+    "abbreviation": "DE",
+    "name": "Delaware",
+    "taxRate": 0,
+    "admissionDate": "December 7, 1787"
+  },
+  {
+    "id": 9,
+    "abbreviation": "FL",
+    "name": "Florida",
+    "taxRate": 6.0,
+    "admissionDate": "March 3, 1845"
+  },
+  {
+    "id": 10,
+    "abbreviation": "GA",
+    "name": "Georgia",
+    "taxRate": 4.0,
+    "admissionDate": "January 2, 1788"
+  },
+  {
+    "id": 11,
+    "abbreviation": "HI",
+    "name": "Hawaii",
+    "taxRate": 4.0,
+    "admissionDate": "August 21, 1959"
+  },
+  {
+    "id": 12,
+    "abbreviation": "ID",
+    "name": "Idaho",
+    "taxRate": 6.0,
+    "admissionDate": "July 3, 1890"
+  },
+  {
+    "id": 13,
+    "abbreviation": "IL",
+    "name": "Illinois",
+    "taxRate": 6.25,
+    "admissionDate": "December 3, 1818"
+  },
+  {
+    "id": 14,
+    "abbreviation": "IN",
+    "name": "Indiana",
+    "taxRate": 7.0,
+    "admissionDate": "December 11, 1816"
+  },
+  {
+    "id": 15,
+    "abbreviation": "IA",
+    "name": "Iowa",
+    "taxRate": 6.0,
+    "admissionDate": "December 28, 1846"
+  },
+  {
+    "id": 16,
+    "abbreviation": "KS",
+    "name": "Kansas",
+    "taxRate": 6.5,
+    "admissionDate": "January 29, 1861"
+  },
+  {
+    "id": 17,
+    "abbreviation": "KY",
+    "name": "Kentucky",
+    "taxRate": 6.0,
+    "admissionDate": "June 1, 1792"
+  },
+  {
+    "id": 18,
+    "abbreviation": "LA",
+    "name": "Louisiana",
+    "taxRate": 4.45,
+    "admissionDate": "April 30, 1812"
+  },
+  {
+    "id": 19,
+    "abbreviation": "ME",
+    "name": "Maine",
+    "taxRate": 5.5,
+    "admissionDate": "March 15, 1820"
+  },
+  {
+    "id": 20,
+    "abbreviation": "MD",
+    "name": "Maryland",
+    "taxRate": 6.0,
+    "admissionDate": "April 28, 1788"
+  },
+  {
+    "id": 21,
+    "abbreviation": "MA",
+    "name": "Massachusetts",
+    "taxRate": 6.25,
+    "admissionDate": "February 6, 1788"
+  },
+  {
+    "id": 22,
+    "abbreviation": "MI",
+    "name": "Michigan",
+    "taxRate": 6.0,
+    "admissionDate": "January 26, 1837"
+  },
+  {
+    "id": 23,
+    "abbreviation": "MN",
+    "name": "Minnesota",
+    "taxRate": 6.88,
+    "admissionDate": "May 11, 1858"
+  },
+  {
+    "id": 24,
+    "abbreviation": "MS",
+    "name": "Mississippi",
+    "taxRate": 7.0,
+    "admissionDate": "December 10, 1817"
+  },
+  {
+    "id": 25,
+    "abbreviation": "MO",
+    "name": "Missouri",
+    "taxRate": 4.225,
+    "admissionDate": "August 10, 1821"
+  },
+  {
+    "id": 26,
+    "abbreviation": "MT",
+    "name": "Montana",
+    "taxRate": 0,
+    "admissionDate": "November 8, 1889"
+  },
+  {
+    "id": 27,
+    "abbreviation": "NE",
+    "name": "Nebraska",
+    "taxRate": 5.5,
+    "admissionDate": "March 1, 1867"
+  },
+  {
+    "id": 28,
+    "abbreviation": "NV",
+    "name": "Nevada",
+    "taxRate": 6.85,
+    "admissionDate": "October 31, 1864"
+  },
+  {
+    "id": 29,
+    "abbreviation": "NH",
+    "name": "New Hampshire",
+    "taxRate": 0,
+    "admissionDate": "June 21, 1788"
+  },
+  {
+    "id": 30,
+    "abbreviation": "NJ",
+    "name": "New Jersey",
+    "taxRate": 6.625,
+    "admissionDate": "December 18, 1787"
+  },
+  {
+    "id": 31,
+    "abbreviation": "NM",
+    "name": "New Mexico",
+    "taxRate": 5.125,
+    "admissionDate": "January 6, 1912"
+  },
+  {
+    "id": 32,
+    "abbreviation": "NY",
+    "name": "New York",
+    "taxRate": 4.0,
+    "admissionDate": "July 26, 1788"
+  },
+  {
+    "id": 33,
+    "abbreviation": "NC",
+    "name": "North Carolina",
+    "taxRate": 4.75,
+    "admissionDate": "November 21, 1789"
+  },
+  {
+    "id": 34,
+    "abbreviation": "ND",
+    "name": "North Dakota",
+    "taxRate": 5.0,
+    "admissionDate": "November 2, 1889"
+  },
+  {
+    "id": 35,
+    "abbreviation": "OH",
+    "name": "Ohio",
+    "taxRate": 5.75,
+    "admissionDate": "March 1, 1803"
+  },
+  {
+    "id": 36,
+    "abbreviation": "OK",
+    "name": "Oklahoma",
+    "taxRate": 4.5,
+    "admissionDate": "November 16, 1907"
+  },
+  {
+    "id": 37,
+    "abbreviation": "OR",
+    "name": "Oregon",
+    "taxRate": 0,
+    "admissionDate": "February 14, 1859"
+  },
+  {
+    "id": 38,
+    "abbreviation": "PA",
+    "name": "Pennsylvania",
+    "taxRate": 6.0,
+    "admissionDate": "December 12, 1787"
+  },
+  {
+    "id": 39,
+    "abbreviation": "RI",
+    "name": "Rhode Island",
+    "taxRate": 7.0,
+    "admissionDate": "May 29, 1790"
+  },
+  {
+    "id": 40,
+    "abbreviation": "SC",
+    "name": "South Carolina",
+    "taxRate": 6.0,
+    "admissionDate": "May 23, 1788"
+  },
+  {
+    "id": 41,
+    "abbreviation": "SD",
+    "name": "South Dakota",
+    "taxRate": 4.5,
+    "admissionDate": "November 2, 1889"
+  },
+  {
+    "id": 42,
+    "abbreviation": "TN",
+    "name": "Tennessee",
+    "taxRate": 7.0,
+    "admissionDate": "June 1, 1796"
+  },
+  {
+    "id": 43,
+    "abbreviation": "TX",
+    "name": "Texas",
+    "taxRate": 6.25,
+    "admissionDate": "December 29, 1845"
+  },
+  {
+    "id": 44,
+    "abbreviation": "UT",
+    "name": "Utah",
+    "taxRate": 4.7,
+    "admissionDate": "January 4, 1896"
+  },
+  {
+    "id": 45,
+    "abbreviation": "VT",
+    "name": "Vermont",
+    "taxRate": 6.0,
+    "admissionDate": "March 4, 1791"
+  },
+  {
+    "id": 46,
+    "abbreviation": "VA",
+    "name": "Virginia",
+    "taxRate": 5.3,
+    "admissionDate": "June 25, 1788"
+  },
+  {
+    "id": 47,
+    "abbreviation": "WA",
+    "name": "Washington",
+    "taxRate": 6.5,
+    "admissionDate": "November 11, 1889"
+  },
+  {
+    "id": 48,
+    "abbreviation": "WV",
+    "name": "West Virginia",
+    "taxRate": 6.0,
+    "admissionDate": "June 20, 1863"
+  },
+  {
+    "id": 49,
+    "abbreviation": "WI",
+    "name": "Wisconsin",
+    "taxRate": 5.0,
+    "admissionDate": "May 29, 1848"
+  },
+  {
+    "id": 50,
+    "abbreviation": "WY",
+    "name": "Wyoming",
+    "taxRate": 4.0,
+    "admissionDate": "July 10, 1890"
+  }
+]

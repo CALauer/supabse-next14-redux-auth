@@ -1,0 +1,499 @@
+{
+  "superBowls": [
+    {
+      "number": 1,
+      "date": "January 15, 1967",
+      "winner": "Green Bay Packers",
+      "loser": "Kansas City Chiefs",
+      "score": "35-10",
+      "mvp": "Bart Starr",
+      "location": "Los Angeles Memorial Coliseum, Los Angeles, California"
+    },
+    {
+      "number": 2,
+      "date": "January 14, 1968",
+      "winner": "Green Bay Packers",
+      "loser": "Oakland Raiders",
+      "score": "33-14",
+      "mvp": "Bart Starr",
+      "location": "Miami Orange Bowl, Miami, Florida"
+    },
+    {
+      "number": 3,
+      "date": "January 12, 1969",
+      "winner": "New York Jets",
+      "loser": "Baltimore Colts",
+      "score": "16-7",
+      "mvp": "Joe Namath",
+      "location": "Miami Orange Bowl, Miami, Florida"
+    },
+    {
+      "number": 4,
+      "date": "January 11, 1970",
+      "winner": "Kansas City Chiefs",
+      "loser": "Minnesota Vikings",
+      "score": "23-7",
+      "mvp": "Len Dawson",
+      "location": "Tulane Stadium, New Orleans, Louisiana"
+    },
+    {
+      "number": 5,
+      "date": "January 17, 1971",
+      "winner": "Baltimore Colts",
+      "loser": "Dallas Cowboys",
+      "score": "16-13",
+      "mvp": "Chuck Howley",
+      "location": "Miami Orange Bowl, Miami, Florida"
+    },
+    {
+      "number": 6,
+      "date": "January 16, 1972",
+      "winner": "Dallas Cowboys",
+      "loser": "Miami Dolphins",
+      "score": "24-3",
+      "mvp": "Roger Staubach",
+      "location": "Tulane Stadium, New Orleans, Louisiana"
+    },
+    {
+      "number": 7,
+      "date": "January 14, 1973",
+      "winner": "Miami Dolphins",
+      "loser": "Washington Redskins",
+      "score": "14-7",
+      "mvp": "Jake Scott",
+      "location": "Los Angeles Memorial Coliseum, Los Angeles, California"
+    },
+    {
+      "number": 8,
+      "date": "January 13, 1974",
+      "winner": "Miami Dolphins",
+      "loser": "Minnesota Vikings",
+      "score": "24-7",
+      "mvp": "Larry Csonka",
+      "location": "Rice Stadium, Houston, Texas"
+    },
+    {
+      "number": 9,
+      "date": "January 12, 1975",
+      "winner": "Pittsburgh Steelers",
+      "loser": "Minnesota Vikings",
+      "score": "16-6",
+      "mvp": "Franco Harris",
+      "location": "Tulane Stadium, New Orleans, Louisiana"
+    },
+    {
+      "number": 10,
+      "date": "January 18, 1976",
+      "winner": "Pittsburgh Steelers",
+      "loser": "Dallas Cowboys",
+      "score": "21-17",
+      "mvp": "Lynn Swann",
+      "location": "Miami Orange Bowl, Miami, Florida"
+    },
+    {
+      "number": 11,
+      "date": "January 9, 1977",
+      "winner": "Oakland Raiders",
+      "loser": "Minnesota Vikings",
+      "score": "32-14",
+      "mvp": "Fred Biletnikoff",
+      "location": "Rose Bowl, Pasadena, California"
+    },
+    {
+      "number": 12,
+      "date": "January 15, 1978",
+      "winner": "Dallas Cowboys",
+      "loser": "Denver Broncos",
+      "score": "27-10",
+      "mvp": "Randy White, Harvey Martin",
+      "location": "Louisiana Superdome, New Orleans, Louisiana"
+    },
+    {
+      "number": 13,
+      "date": "January 21, 1979",
+      "winner": "Pittsburgh Steelers",
+      "loser": "Dallas Cowboys",
+      "score": "35-31",
+      "mvp": "Terry Bradshaw",
+      "location": "Miami Orange Bowl, Miami, Florida"
+    },
+    {
+      "number": 14,
+      "date": "January 20, 1980",
+      "winner": "Pittsburgh Steelers",
+      "loser": "Los Angeles Rams",
+      "score": "31-19",
+      "mvp": "Terry Bradshaw",
+      "location": "Rose Bowl, Pasadena, California"
+    },
+    {
+      "number": 15,
+      "date": "January 25, 1981",
+      "winner": "Oakland Raiders",
+      "loser": "Philadelphia Eagles",
+      "score": "27-10",
+      "mvp": "Jim Plunkett",
+      "location": "Louisiana Superdome, New Orleans, Louisiana"
+    },
+    {
+      "number": 16,
+      "date": "January 24, 1982",
+      "winner": "San Francisco 49ers",
+      "loser": "Cincinnati Bengals",
+      "score": "26-21",
+      "mvp": "Joe Montana",
+      "location": "Pontiac Silverdome, Pontiac, Michigan"
+    },
+    {
+      "number": 17,
+      "date": "January 30, 1983",
+      "winner": "Washington Redskins",
+      "loser": "Miami Dolphins",
+      "score": "27-17",
+      "mvp": "John Riggins",
+      "location": "Rose Bowl, Pasadena, California"
+    },
+    {
+      "number": 18,
+      "date": "January 22, 1984",
+      "winner": "Los Angeles Raiders",
+      "loser": "Washington Redskins",
+      "score": "38-9",
+      "mvp": "Marcus Allen",
+      "location": "Tampa Stadium, Tampa, Florida"
+    },
+    {
+      "number": 19,
+      "date": "January 20, 1985",
+      "winner": "San Francisco 49ers",
+      "loser": "Miami Dolphins",
+      "score": "38-16",
+      "mvp": "Joe Montana",
+      "location": "Stanford Stadium, Stanford, California"
+    },
+    {
+      "number": 20,
+      "date": "January 26, 1986",
+      "winner": "Chicago Bears",
+      "loser": "New England Patriots",
+      "score": "46-10",
+      "mvp": "Richard Dent",
+      "location": "Louisiana Superdome, New Orleans, Louisiana"
+    },
+    {
+      "number": 21,
+      "date": "January 25, 1987",
+      "winner": "New York Giants",
+      "loser": "Denver Broncos",
+      "score": "39-20",
+      "mvp": "Phil Simms",
+      "location": "Rose Bowl, Pasadena, California"
+    },
+    {
+      "number": 22,
+      "date": "January 31, 1988",
+      "winner": "Washington Redskins",
+      "loser": "Denver Broncos",
+      "score": "42-10",
+      "mvp": "Doug Williams",
+      "location": "Jack Murphy Stadium, San Diego, California"
+    },
+    {
+      "number": 23,
+      "date": "January 22, 1989",
+      "winner": "San Francisco 49ers",
+      "loser": "Cincinnati Bengals",
+      "score": "20-16",
+      "mvp": "Jerry Rice",
+      "location": "Joe Robbie Stadium, Miami Gardens, Florida"
+    },
+    {
+      "number": 24,
+      "date": "January 28, 1990",
+      "winner": "San Francisco 49ers",
+      "loser": "Denver Broncos",
+      "score": "55-10",
+      "mvp": "Joe Montana",
+      "location": "Louisiana Superdome, New Orleans, Louisiana"
+    },
+    {
+      "number": 25,
+      "date": "January 27, 1991",
+      "winner": "New York Giants",
+      "loser": "Buffalo Bills",
+      "score": "20-19",
+      "mvp": "Ottis Anderson",
+      "location": "Tampa Stadium, Tampa, Florida"
+    },
+    {
+      "number": 26,
+      "date": "January 26, 1992",
+      "winner": "Washington Redskins",
+      "loser": "Buffalo Bills",
+      "score": "37-24",
+      "mvp": "Mark Rypien",
+      "location": "Metrodome, Minneapolis, Minnesota"
+    },
+    {
+      "number": 27,
+      "date": "January 31, 1993",
+      "winner": "Dallas Cowboys",
+      "loser": "Buffalo Bills",
+      "score": "52-17",
+      "mvp": "Troy Aikman",
+      "location": "Rose Bowl, Pasadena, California"
+    },
+    {
+      "number": 28,
+      "date": "January 30, 1994",
+      "winner": "Dallas Cowboys",
+      "loser": "Buffalo Bills",
+      "score": "30-13",
+      "mvp": "Emmitt Smith",
+      "location": "Georgia Dome, Atlanta, Georgia"
+    },
+    {
+      "number": 29,
+      "date": "January 29, 1995",
+      "winner": "San Francisco 49ers",
+      "loser": "San Diego Chargers",
+      "score": "49-26",
+      "mvp": "Steve Young",
+      "location": "Joe Robbie Stadium, Miami Gardens, Florida"
+    },
+    {
+      "number": 30,
+      "date": "January 28, 1996",
+      "winner": "Dallas Cowboys",
+      "loser": "Pittsburgh Steelers",
+      "score": "27-17",
+      "mvp": "Larry Brown",
+      "location": "Sun Devil Stadium, Tempe, Arizona"
+    },
+    {
+      "number": 31,
+      "date": "January 26, 1997",
+      "winner": "Green Bay Packers",
+      "loser": "New England Patriots",
+      "score": "35-21",
+      "mvp": "Desmond Howard",
+      "location": "Louisiana Superdome, New Orleans, Louisiana"
+    },
+    {
+      "number": 32,
+      "date": "January 25, 1998",
+      "winner": "Denver Broncos",
+      "loser": "Green Bay Packers",
+      "score": "31-24",
+      "mvp": "John Elway",
+      "location": "Qualcomm Stadium, San Diego, California"
+    },
+    {
+      "number": 33,
+      "date": "January 31, 1999",
+      "winner": "Denver Broncos",
+      "loser": "Atlanta Falcons",
+      "score": "34-19",
+      "mvp": "John Elway",
+      "location": "Pro Player Stadium, Miami Gardens, Florida"
+    },
+    {
+      "number": 34,
+      "date": "January 30, 2000",
+      "winner": "St. Louis Rams",
+      "loser": "Tennessee Titans",
+      "score": "23-16",
+      "mvp": "Kurt Warner",
+      "location": "Georgia Dome, Atlanta, Georgia"
+    },
+    {
+      "number": 35,
+      "date": "January 28, 2001",
+      "winner": "Baltimore Ravens",
+      "loser": "New York Giants",
+      "score": "34-7",
+      "mvp": "Ray Lewis",
+      "location": "Raymond James Stadium, Tampa, Florida"
+    },
+    {
+      "number": 36,
+      "date": "February 3, 2002",
+      "winner": "New England Patriots",
+      "loser": "St. Louis Rams",
+      "score": "20-17",
+      "mvp": "Tom Brady",
+      "location": "Louisiana Superdome, New Orleans, Louisiana"
+    },
+    {
+      "number": 37,
+      "date": "January 26, 2003",
+      "winner": "Tampa Bay Buccaneers",
+      "loser": "Oakland Raiders",
+      "score": "48-21",
+      "mvp": "Dexter Jackson",
+      "location": "Qualcomm Stadium, San Diego, California"
+    },
+    {
+      "number": 38,
+      "date": "February 1, 2004",
+      "winner": "New England Patriots",
+      "loser": "Carolina Panthers",
+      "score": "32-29",
+      "mvp": "Tom Brady",
+      "location": "Reliant Stadium, Houston, Texas"
+    },
+    {
+      "number": 39,
+      "date": "February 6, 2005",
+      "winner": "New England Patriots",
+      "loser": "Philadelphia Eagles",
+      "score": "24-21",
+      "mvp": "Deion Branch",
+      "location": "Jacksonville Municipal Stadium, Jacksonville, Florida"
+    },
+    {
+      "number": 40,
+      "date": "February 5, 2006",
+      "winner": "Pittsburgh Steelers",
+      "loser": "Seattle Seahawks",
+      "score": "21-10",
+      "mvp": "Hines Ward",
+      "location": "Ford Field, Detroit, Michigan"
+    },
+    {
+      "number": 41,
+      "date": "February 4, 2007",
+      "winner": "Indianapolis Colts",
+      "loser": "Chicago Bears",
+      "score": "29-17",
+      "mvp": "Peyton Manning",
+      "location": "Dolphin Stadium, Miami Gardens, Florida"
+    },
+    {
+      "number": 42,
+      "date": "February 3, 2008",
+      "winner": "New York Giants",
+      "loser": "New England Patriots",
+      "score": "17-14",
+      "mvp": "Eli Manning",
+      "location": "University of Phoenix Stadium, Glendale, Arizona"
+    },
+    {
+      "number": 43,
+      "date": "February 1, 2009",
+      "winner": "Pittsburgh Steelers",
+      "loser": "Arizona Cardinals",
+      "score": "27-23",
+      "mvp": "Santonio Holmes",
+      "location": "Raymond James Stadium, Tampa, Florida"
+    },
+    {
+      "number": 44,
+      "date": "February 7, 2010",
+      "winner": "New Orleans Saints",
+      "loser": "Indianapolis Colts",
+      "score": "31-17",
+      "mvp": "Drew Brees",
+      "location": "Sun Life Stadium, Miami Gardens, Florida"
+    },
+    {
+      "number": 45,
+      "date": "February 6, 2011",
+      "winner": "Green Bay Packers",
+      "loser": "Pittsburgh Steelers",
+      "score": "31-25",
+      "mvp": "Aaron Rodgers",
+      "location": "Cowboys Stadium, Arlington, Texas"
+    },
+    {
+      "number": 46,
+      "date": "February 5, 2012",
+      "winner": "New York Giants",
+      "loser": "New England Patriots",
+      "score": "21-17",
+      "mvp": "Eli Manning",
+      "location": "Lucas Oil Stadium, Indianapolis, Indiana"
+    },
+    {
+      "number": 47,
+      "date": "February 3, 2013",
+      "winner": "Baltimore Ravens",
+      "loser": "San Francisco 49ers",
+      "score": "34-31",
+      "mvp": "Joe Flacco",
+      "location": "Mercedes-Benz Superdome, New Orleans, Louisiana"
+    },
+    {
+      "number": 48,
+      "date": "February 2, 2014",
+      "winner": "Seattle Seahawks",
+      "loser": "Denver Broncos",
+      "score": "43-8",
+      "mvp": "Malcolm Smith",
+      "location": "MetLife Stadium, East Rutherford, New Jersey"
+    },
+    {
+      "number": 49,
+      "date": "February 1, 2015",
+      "winner": "New England Patriots",
+      "loser": "Seattle Seahawks",
+      "score": "28-24",
+      "mvp": "Tom Brady",
+      "location": "University of Phoenix Stadium, Glendale, Arizona"
+    },
+    {
+      "number": 50,
+      "date": "February 7, 2016",
+      "winner": "Denver Broncos",
+      "loser": "Carolina Panthers",
+      "score": "24-10",
+      "mvp": "Von Miller",
+      "location": "Levi's Stadium, Santa Clara, California"
+    },
+    {
+      "number": 51,
+      "date": "February 5, 2017",
+      "winner": "New England Patriots",
+      "loser": "Atlanta Falcons",
+      "score": "34-28",
+      "mvp": "Tom Brady",
+      "location": "NRG Stadium, Houston, Texas"
+    },
+    {
+      "number": 52,
+      "date": "February 4, 2018",
+      "winner": "Philadelphia Eagles",
+      "loser": "New England Patriots",
+      "score": "41-33",
+      "mvp": "Nick Foles",
+      "location": "U.S. Bank Stadium, Minneapolis, Minnesota"
+    },
+    {
+      "number": 53,
+      "date": "February 3, 2019",
+      "winner": "New England Patriots",
+      "loser": "Los Angeles Rams",
+      "score": "13-3",
+      "mvp": "Julian Edelman",
+      "location": "Mercedes-Benz Stadium, Atlanta, Georgia"
+    },
+    {
+      "number": 54,
+      "date": "February 2, 2020",
+      "winner": "Kansas City Chiefs",
+      "loser": "San Francisco 49ers",
+      "score": "31-20",
+      "mvp": "Patrick Mahomes",
+      "location": "Hard Rock Stadium, Miami Gardens, Florida"
+    },
+    {
+      "number": 55,
+      "date": "February 7, 2021",
+      "winner": "Tampa Bay Buccaneers",
+      "loser": "Kansas City Chiefs",
+      "score": "31-9",
+      "mvp": "Tom Brady",
+      "location": "Raymond James Stadium, Tampa, Florida"
+    }
+  ]
+}
