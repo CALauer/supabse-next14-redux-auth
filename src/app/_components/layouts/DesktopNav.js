@@ -16,9 +16,6 @@ export default function DesktopNav() {
               <Link href="/">Home</Link>
             </li>
             <li>
-              <Link href="/tutorial">Tutorial</Link>
-            </li>
-            <li>
               <Link href="/login">Login</Link>
             </li>
             <li>
@@ -29,6 +26,7 @@ export default function DesktopNav() {
       </nav>
     );
   }
+  // Logged in routes
   return (
     <nav>
       <div className="desktop-navigation-bar">
@@ -36,9 +34,6 @@ export default function DesktopNav() {
         <ul>
           <li>
             <Link href="/dashboard">Dashboard</Link>
-          </li>
-          <li>
-            <Link href="/tutorial">Tutorial</Link>
           </li>
         </ul>
       </div>
